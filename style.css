@@ -1,7 +1,60 @@
 @charset "utf-8";
 /* Styles go here */
 
+/*Configurações geradas pelo svg ao esportar imagens pelo corel draw*/
+.str0 {stroke:#FEFEFE;stroke-width:0.900803}
+.fil29 {fill:#00AFEF}
+.fil32 {fill:#3E4095}
+.fil31 {fill:#718FC8}
+.fil9 {fill:#ED3237}
+.fil36 {fill:#2D1300}
+.fil39 {fill:#3C1900}
+.fil27 {fill:#408BCA}
+.fil28 {fill:#5599FF}
+.fil33 {fill:#662B00}
+.fil40 {fill:#75BC11}
+.fil30 {fill:#75C5F0}
+.fil35 {fill:#783201}
+.fil43 {fill:#8CC630}
+.fil44 {fill:#92C946}
+.fil41 {fill:#9CCE59}
+.fil37 {fill:#AB6634}
+.fil34 {fill:#B87341}
+.fil42 {fill:#B8DA6B}
+.fil38 {fill:#DE9967}
+.fil26 {fill:#F8C300}
+.fil23 {fill:#F8D400}
+.fil22 {fill:#FF6E00}
+.fil24 {fill:#FF9900}
+.fil25 {fill:#FFA600}
+.fil21 {fill:#FFD42A}
+.fil0 {fill:#D83D59}
+.fil3 {fill:#D9473C}
+.fil14 {fill:#DA5D42}
+.fil1 {fill:#E43D52}
+.fil16 {fill:#E44144}
+.fil20 {fill:#E4414C}
+.fil7 {fill:#E9463C}
+.fil19 {fill:#EA6555}
+.fil6 {fill:#EA6D54}
+.fil18 {fill:#ED2F5C}
+.fil13 {fill:#ED5E52}
+.fil11 {fill:#ED7B61}
+.fil17 {fill:#EE304E}
+.fil2 {fill:#EE3146}
+.fil8 {fill:#EF4B3F}
+.fil15 {fill:#EF4F3A}
+.fil10 {fill:#F05864}
+.fil4 {fill:#F15F4A}
+.fil12 {fill:#F27056}
+.fil5 {fill:#F47E63}
+
 polygon:hover{
   opacity: 0.5;
 }
 
+
+/*É necessário a Criação de opacity para o ID em especifico devido não ser um poligono, e sim um path, porque é uma cidade que é separada*/
+#SitiodAbadia:hover {
+  opacity: 0.5;
+}
