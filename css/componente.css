@@ -1,0 +1,19 @@
+body {
+	background-image:url(../img/bg.jpg);
+	font-family: 'Helvetica', sans-serif;
+}
+
+nav a {
+	display: inline-block;
+	margin: 15px 15px;
+	color: #fff;
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-size: 1.35em;
+	font-weight: bold;
+	font-family: 'Helvetica', sans-serif;
+}
+
+.corBack {
+	background: #abcdef;
+}

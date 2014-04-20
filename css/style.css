@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* Styles go here */
+
+polygon:hover{
+  opacity: 0.5;
+}
+
+/*É necessário a Criação de opacity para o ID em especifico devido não ser um poligono, e sim um path, porque é uma cidade que é separada*/
+#SitiodAbadia:hover {
+  opacity: 0.5;
+}
